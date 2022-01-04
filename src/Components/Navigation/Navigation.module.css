@@ -1,0 +1,17 @@
+.nav {
+    grid-area: n;
+    background-color:rgb(236, 207, 207);
+    padding: 20px;
+  }
+
+.item {
+    color:rgb(42, 93, 95);
+    text-decoration: none;
+}
+.active {
+  color:rgb(73, 187, 197);
+  text-decoration: none;
+}
+.friendBlock {
+  margin-top: 15px;
+}
