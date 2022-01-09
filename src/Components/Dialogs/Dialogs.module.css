@@ -1,0 +1,29 @@
+.dialogWindow {
+    display: grid;
+    grid-template-columns: 5fr 10fr;
+}
+
+.dialogItems {
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+.dialogItems .active {
+    color: rgb(255, 208, 52);
+}
+
+.dialog {
+    background-color: rgb(75, 189, 151);
+}
+
+.chat {
+    background-color: blanchedalmond;
+}
+
+.message {
+    background-color: rgb(230, 211, 183);
+}
+
+.panel {
+    margin-top: 15px;
+}

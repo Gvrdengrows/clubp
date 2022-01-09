@@ -1,0 +1,11 @@
+.item {
+    color: deeppink;
+  }
+
+.item img {
+  height: 50px;
+  width: 50px;
+  border: solid;
+  border-radius: 20px;
+  border-color: rgba(220, 20, 60, 0.479);
+}
