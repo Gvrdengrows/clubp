@@ -10,7 +10,7 @@ let store = {
     _state: {
         profilePage: {
             postData: [
-                { id: 1, text: 'Datebayo', like: 12 },
+                { id: 1, text: 'Datebayso', like: 12 },
                 { id: 2, text: 'zero two is best waifu im right guys???', like: 32 },
                 { id: 3, text: 'lol what im doing here', like: 12 }
             ],
